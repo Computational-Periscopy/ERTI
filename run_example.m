@@ -17,7 +17,7 @@ clear all; close all; clc;
 % Synthetic data: 'synthetic_verticalT', 'synthetic_farT_cylinder', 
 % 'synthetic_farT', 'synthetic_empty_room', 'synthetic_cylinder'
 
-scene = 'synthetic_farT';
+scene = 'staircase';
 
 % Acquisition time in seconds. Only for real data.
 % Options: 10,20,30 and 60.
