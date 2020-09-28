@@ -13,7 +13,7 @@ J. Rapp, C. Saunders, J. Tachella, J. Murray-Bruce, Y. Altmann, J-Y. Tourneret, 
 (to be updated soon)
 
 ## Short video explanation
-[![Click for video]](http://img.youtube.com/vi/1MDwFVky-wg/0.jpg)](http://www.youtube.com/watch?v=1MDwFVky-wg "Seeing around corners with ERTI")
+[![Click for video](http://img.youtube.com/vi/1MDwFVky-wg/0.jpg)](http://www.youtube.com/watch?v=1MDwFVky-wg "Seeing around corners with ERTI")
 
 ## How to run this demo
 1. Download the files in this repository
