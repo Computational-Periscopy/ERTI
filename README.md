@@ -12,21 +12,20 @@ J. Rapp, C. Saunders, J. Tachella, J. Murray-Bruce, Y. Altmann, J-Y. Tourneret, 
 **Link to pdf:**
 (to be updated soon)
 
+## Short video explanation
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=1MDwFVky-wg "Seeing around corners with ERTI")
+
 ## How to run this demo
 1. Download the files in this repository
 2. Check minimal requirements (below)
-3. Run run_example.m
-4. Choose the desired dataset in run_example.m
+3. Run run_example.m. The 2.5D reconstruction should appear at the end of the script.
+5. The reconstruction is saved in the folder /results
 
-## Trying the code with your data
-Add to the folder 'data' a my_data.mat file containing:
-1. A array Y (double) containing the Lidar histograms of size(Y) = [L, T] where L is the number of wedges and T is the number of histogram bins.
-3. A scalar BinRes (double) containing the TCSPC binning resolution in seconds.
-
-Run the script convert_file.m, selecting the file my_data.mat
-
-## Tuning the hyperparameters
-Change the following variables in the get_hyperparam.m script.
+## Changing the dataset
+You can find simple instructions in run_example.m to change the dataset.
 
 ## Requirements
 MATLAB 2019b (other releases have not been tested)
+
+## Tuning the hyperparameters
+Change the following variables in the get_hyperparam.m script.
