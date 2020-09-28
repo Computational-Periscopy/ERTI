@@ -1,4 +1,4 @@
-## SkellyPoP algorithm (MATLAB)
+## SkellaPoP algorithm (MATLAB)
 
 **Paper title:** 
 Seeing Around Corners with Edge-Resolved Transient Imaging
