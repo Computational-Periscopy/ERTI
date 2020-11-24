@@ -7,10 +7,10 @@ Seeing Around Corners with Edge-Resolved Transient Imaging
 J. Rapp, C. Saunders, J. Tachella, J. Murray-Bruce, Y. Altmann, J-Y. Tourneret, S. McLaughlin, R. Dawson, F. Wong and V. K. Goyal
 
 **Published in:**
-(to be updated soon)
+Nature Communications
 
 **Link to pdf:**
-(to be updated soon)
+https://www.nature.com/articles/s41467-020-19727-4
 
 ## Short introductory video 
 [![Click for video](video_thumb.PNG)](http://www.youtube.com/watch?v=1MDwFVky-wg "Seeing around corners with ERTI")
